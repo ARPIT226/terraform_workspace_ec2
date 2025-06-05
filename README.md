@@ -2,7 +2,7 @@
 ## 1. Initializing terraform
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/fd52264c-839c-4fed-a5ed-252e7bfadccc" />
 
-## 2. Setting up an new dev environment
+## 2. Setting up an new dev environment workspace
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/564b353e-e1e4-476a-ac57-b74c44f62fbe" />
 
 ## 3. Executing plan for action
@@ -17,5 +17,5 @@
 ## 6. Checking from console
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/378814b9-0628-434a-9ada-fc48223b58fc" />
 
-Similarly launched an ec2 instance in staging environment.
+Similarly launched an ec2 instance in staging environment workspace
 
