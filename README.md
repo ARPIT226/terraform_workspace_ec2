@@ -17,5 +17,5 @@
 ## 6. Checking from console
 <img width="782" alt="image" src="https://github.com/user-attachments/assets/378814b9-0628-434a-9ada-fc48223b58fc" />
 
-Similarly launched an ec2 instance in staging environment as well
+Similarly launched an ec2 instance in staging environment.
 
